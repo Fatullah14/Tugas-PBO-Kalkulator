@@ -17,4 +17,8 @@ Versi SDK Minimal = 21
 * Project siap digunakan
 
 ## Sreenshot
+![image](https://user-images.githubusercontent.com/91942287/177949335-3916c239-46ed-4b01-b87b-7cc6e268ec8d.png)
+
+![image](https://user-images.githubusercontent.com/91942287/177949363-0bcfe502-ba55-4779-84b4-df65ec21ddba.png)
+
 ![image](https://user-images.githubusercontent.com/91942287/177947000-03751116-4684-4e34-9679-28dd68159a80.png)
