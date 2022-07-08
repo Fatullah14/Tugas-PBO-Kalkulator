@@ -21,4 +21,4 @@ Versi SDK Minimal = 21
 
 ![image](https://user-images.githubusercontent.com/91942287/177949363-0bcfe502-ba55-4779-84b4-df65ec21ddba.png)
 
-![image](https://user-images.githubusercontent.com/91942287/177947000-03751116-4684-4e34-9679-28dd68159a80.png)
+![image](https://user-images.githubusercontent.com/91942287/177949507-8d4b4fce-241b-43c3-b54f-8f74968f1cab.png)
