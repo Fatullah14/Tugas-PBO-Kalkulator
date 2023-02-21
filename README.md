@@ -1,7 +1,7 @@
 # Tugas-PBO-Kalkulator
 
 ## Kelompok 4
-** Arif Fatullah
+* Arif Fatullah
 * M. Mulyadi 
 * Naufal Maulana Al-Ghifari Irawan 
 * Reyvi Fernanda Indrasta
